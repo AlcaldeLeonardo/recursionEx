@@ -5,8 +5,8 @@ a set of practice problems for recursion.
 
 Here are the exercises:
 
--Fibonacci
--Merge Sort
+- Fibonacci
+- Merge Sort
 
 ## Installation
 
